@@ -42,7 +42,7 @@ def get_reconstruction_error(data):
 
 print("Calculating errors for Normal hearts...")
 normal_errors = get_reconstruction_error(X_normal)
-
+ 
 print("Calculating errors for Abnormal hearts...")
 abnormal_errors = get_reconstruction_error(X_abnormal)
 
