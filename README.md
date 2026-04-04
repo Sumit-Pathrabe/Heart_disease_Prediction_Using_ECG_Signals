@@ -1,11 +1,11 @@
-# ❤️ Heart Disease Prediction Using ECG Signals
+#  Heart Disease Prediction Using ECG Signals
 
 This project focuses on predicting heart disease using ECG (Electrocardiogram) signals.  
 The system preprocesses ECG data, detects R-peaks, creates signal windows, and trains a **Variational Autoencoder (VAE)** model to learn patterns for heart disease prediction.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Project Workflow:
 
@@ -19,7 +19,7 @@ Project Workflow:
 
 ---
 
-## 📊 Model Pipeline
+##  Model Pipeline
 
 ```
 ECG Signal → Preprocessing → R Peak Detection → Windowing → VAE Training → Prediction
