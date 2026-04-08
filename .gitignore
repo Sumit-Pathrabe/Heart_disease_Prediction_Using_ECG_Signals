@@ -2,6 +2,7 @@ a-large-scale-12-lead-electrocardiogram-database-for-arrhythmia-study-1.0.0
 ecg_env
 a-large-scale-12-lead-electrocardiogram-database-for-arrhythmia-study-1.0.0.zip
 X_train_normal.npy
+ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3
 
 # Processed Tensors
 *.npy
