@@ -10,3 +10,4 @@ VAE MODEL RESULTS
 ![training our model For PTB-XL FILES](image-5.png)
 ![Model Trained](image-6.png)
 ![KNN Clssifier trained sucessfully](image-7.png)
+![Latent_traversal_sucessFul](image-8.png)

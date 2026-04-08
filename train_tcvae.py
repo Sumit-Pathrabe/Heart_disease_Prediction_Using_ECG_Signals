@@ -110,7 +110,9 @@ class TCVAE(Model):
         }
 
 # --- 4. TRAIN THE MODEL ---
-tcvae = TCVAE(encoder, decoder, beta=5.0, tc_gamma=10.0)
+# --- CHANGE THIS LINE ---
+tcvae = TCVAE(encoder, decoder, beta=0.1, tc_gamma=0.5)
+# -----------------------
 tcvae.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=0.0005))
 
 print("\n🚀 Starting β-TCVAE Training on 95,711 heartbeats...")
