@@ -9,3 +9,4 @@ VAE MODEL RESULTS
 ![Actual Figure](image-4.png)
 ![training our model For PTB-XL FILES](image-5.png)
 ![Model Trained](image-6.png)
+![KNN Clssifier trained sucessfully](image-7.png)
