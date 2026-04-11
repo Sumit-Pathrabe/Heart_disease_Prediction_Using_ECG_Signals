@@ -81,4 +81,4 @@ VAE MODEL RESULTS
 ![Model Trained](image-6.png)
 ![KNN Clssifier trained sucessfully](image-7.png)
 ![Latent_traversal_sucessFul](image-8.png)
-
+![Classification_comparison](image-9.png)
