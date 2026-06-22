@@ -3,7 +3,6 @@
 
 ##  Overview
 This project focuses on predicting heart disease using Electrocardiogram (ECG) signals and Machine Learning techniques. ECG signals represent the electrical activity of the heart and help in identifying abnormalities. The system uses ML models to analyze ECG data and predict the presence of heart disease.
-
 ---
 
 ##  Objectives
